@@ -4,3 +4,4 @@
 
 ## Windows Priv Esc Tools
 [Winpeas](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS): Windows local Privilege Escalation Script (C#.exe and .bat)
+[Powerless.bat](https://github.com/gladiatx0r/Powerless)
